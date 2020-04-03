@@ -70,7 +70,7 @@ img.avatar{border:2px solid #232323;display:block;margin:0 auto;max-width:200px;
 .lang{padding-bottom:5px;padding-top:15px;text-align:center;vertical-align:middle;}
 .selected{border:2px solid #E03FB1;}
 #heading{border-bottom:3px solid #232323;color:#666;font-size:18px;margin-left:0;min-height:16px;padding-bottom:3px;width:100%;}
-@font-face{font-family:tfm;src:url(https://web.archive.org/web/20160202001348im_/http://spicyemu.formice.com/css/tfm.ttf);}
+@font-face{font-family:tfm;src:url(tfm.ttf);}
 #sidebar{float:left;overflow:hidden;width:255px;text-align:left;margin:5px 0 0 40px;padding-top:10px;word-wrap:break-word;}
 #content{float:right;overflow:hidden;padding-left:15px;width:620px;min-height:484px;margin:10px 12px 14px 14px;}
 #content h1{color:#FFF;font-family:tfm,verdana;padding-top:5px;text-align:left;text-shadow:0 0 20px #06CCFF;display:inline;margin:0;}
