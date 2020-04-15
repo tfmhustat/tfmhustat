@@ -7,6 +7,7 @@ h4{font-size:10pt;text-align:center}
 h5{font-size:7pt}
 h6{font-size:5pt}
 h7{font-size:40pt}
+h8{font-size:12pt}
 .balla {
 	text-align: center;
 	position:absolute;
@@ -41,7 +42,11 @@ h7{font-size:40pt}
 	transform: translate(-50%, -50%);
      	color:#666;
 }
-
+.updatedate {
+	text-align: left;
+	position:absolute;
+	color:#666;
+}
 a:hover{text-decoration:none}
 .ralign{text-align:right}
 .lalign{text-align:left}
